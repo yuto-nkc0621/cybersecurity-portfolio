@@ -1,3 +1,10 @@
+
 # Cybersecurity Portfolio
-Hi, I'm Yuto, a CIS student studying Security+.
-This repository contains my notes, writeups, and reports from my cybersecurity learning journey.
+CIS student @ UNA | Studying for CompTIA Security+  | college club soccer player
+-  English/Japanese/Spanish
+---
+
+### 📂 Contents
+- **notes/** – Class notes & study materials  
+- **writeups/** – CTF & lab solutions  
+- **reports/** – Wireshark & analysis reports
