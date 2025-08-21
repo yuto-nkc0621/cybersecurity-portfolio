@@ -1,7 +1,8 @@
 
 # Cybersecurity Portfolio
-CIS student @ UNA | Studying for CompTIA Security+  | college club soccer player
+CIS student @UNA | Studying for CompTIA Security+  
 -  English/Japanese/Spanish
+-  College club soccer player
 ---
 
 ### 📂 Contents
